@@ -16,7 +16,7 @@ Welcher Einfluss haben die Videolänge und der Status (Premium oder Free) auf de
 
 - Dies war die erste Datenauswertung auf einem unbekannten Datensatz. 
 - Aus mangelnder Erfahrung wurden die Daten nicht bereinigt oder eingeschränkt.
-- Noch nie von DataFrames und Matplotlib gehört
+- DataFrames und Matplotlib waren Neuland.
 
 ## Learnings für die Zukunft
 
