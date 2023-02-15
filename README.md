@@ -25,6 +25,11 @@ Welcher Einfluss haben die Videolänge und der Status (Premium oder Free) auf de
 - Einschränkung der Daten
   - Videos mit mehreren Jahren und wenigen Tagen online Zeit werden gleichgesetzt. Einschränkung auf beispielsweise > 3 Jahre
   
+## Weitere Fragestellungen
+
+- Auswirkung des Titels auf die Klickzahlen
+- Auswrikung der Anzahl von Free Videos auf Premium Klicks
+- Auswirkungen Follower auf Klickzahlen
   
 
 
