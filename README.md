@@ -1,9 +1,30 @@
-# PornHub Dataset for Statistics class in Summer Semester 2021
+# Datenauswertung im Fach Statistik Sommersemester 2021
 
-The assignment was to find any dataset and do an analysis of it.
-The results show how the video length and the status (premium or not) have impact on the revenue per video.
-As mentioned in the presentation, i used the raw dataset without any cleaning.
+## Aufgabenstellung
 
-The Dataset was to big to upload to GitHub but can be found here:
+Auswahl und Auswertung eines beliebigen Datensatzes
+
+## Verwendeter Datensatz
 
 https://www.reddit.com/r/datasets/comments/cjdxhz/metadata_for_26_million_pornhub_videos_spanning/
+
+## Fragestellung
+
+Welcher Einfluss haben die Videolänge und der Status (Premium oder Free) auf den Umsatz pro Video.
+
+## Probleme
+
+- Dies war die erste Datenauswertung auf einem unbekannten Datensatz. 
+- Aus mangelnder Erfahrung wurden die Daten nicht bereinigt oder eingeschränkt.
+- Noch nie von DataFrames und Matplotlib gehört
+
+## Learnings für die Zukunft
+
+- Datenbereinigung
+  - Entfernen der Videos mit sehr niedrigen und sehr hohen Klickzahlen
+- Einschränkung der Daten
+  - Videos mit mehreren Jahren und wenigen Tagen online Zeit werden gleichgesetzt. Einschränkung auf beispielsweise > 3 Jahre
+  
+  
+
+
